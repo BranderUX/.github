@@ -1,7 +1,7 @@
 # BranderUX
 
-**BranderUX is AI-UX infrastructure. Turn your agent into full agentic
-applications, websites and MCP apps — in minutes.**
+**Build agentic applications, in minutes. One message in. Your full agentic
+application out: website and MCP app, live.**
 
 App builders generate an app once — a design-time artifact, the same for
 everyone. A BranderUX application is generated at runtime: every answer renders
